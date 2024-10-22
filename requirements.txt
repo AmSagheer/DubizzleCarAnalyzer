@@ -1,0 +1,7 @@
+streamlit
+selenium
+webdriver-manager==4.0.0
+beautifulsoup4
+pandas
+plotly
+scikit-learn
